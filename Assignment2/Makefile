@@ -1,0 +1,2 @@
+all:
+	mpicc src.c
